@@ -6,6 +6,8 @@ body {
     font-size: 1.3em;
     margin-top: 0;
     margin-bottom: 0;
+    background-image: url('./Img/Lo-agrario-e1534362085657.jpg') ;
+    background-size: cover;
 }
 
 .contenido{
@@ -13,6 +15,13 @@ body {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.696);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding-top: 0,1em;
 }
 
 :root{
@@ -28,7 +37,7 @@ body {
    border-bottom-right-radius: 30px;
     text-align: center;
     color: var(--claro);
-
+    margin-bottom: 20px;
 }
 
 .pago{
